@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BookApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BookApp_jar</output-path>
+    <root id="archive" name="BookApp.jar">
+      <element id="module-output" name="BookApp" />
+    </root>
+  </artifact>
+</component>
